@@ -1,0 +1,5 @@
+Envoyer cette commande dans un terminal avant de compiler (possiblement le foutre dans le Makefile?
+
+export LD_LIBRARY_PATH=/usr/local/lib
+
+Vérifier : echo $LD_LIBRARY_PATH
